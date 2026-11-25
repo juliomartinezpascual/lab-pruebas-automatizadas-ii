@@ -1,0 +1,3 @@
+Case_ID,Titulo,Prioridad,Ejecutado_por,Resultado,Bug_relacionado,Notas
+TC-01,Login admin exitoso,P0,,Pass,,
+TC-02,Operador no puede crear producto,P0,,Fail/Pass/Blocked,,

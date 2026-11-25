@@ -1,0 +1,6 @@
+﻿Numero,Riesgo,Peligro
+1,Control de salidas OUT,Entregar mas productos de los que hay en stock
+2,Integridad de movimientos,Descuadre de inventario por sumas o restas erroneas
+3,Permisos Admin vs Operador,Operador haciendo cambios de administrador
+4,Dashboard y valor de inventario,Metricas erroneas que no reflejan la realidad
+5,Alertas de stock minimo,No avisar a tiempo sobre insumos criticos

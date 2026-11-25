@@ -1,0 +1,3 @@
+1. Alucinación: La IA asumió que el sistema necesita manejar "transacciones atómicas" y "concurrencia" (temas de bases de datos avanzadas), cosas que no están en los requisitos del MVP.
+2. Punto ciego: La IA ignoró por completo el riesgo de ataques XSS (inyección de scripts en los campos de texto), a pesar de que es un criterio de aceptación.
+3. Demasiado genérica: Propuso una "Estrategia de ejecución en 3 fases" que suena muy profesional, pero que es irrelevante para un laboratorio donde solo probamos en localhost.

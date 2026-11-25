@@ -15,9 +15,8 @@
 
 | # | Nombre completo |
 |---|-----------------|
-| 1 | |
-| 2 | |
-| 3 | |
+| 1 | Deivy Patiño |
+| 2 | Juan Carlos Garcia Mejia |
 
 ---
 
