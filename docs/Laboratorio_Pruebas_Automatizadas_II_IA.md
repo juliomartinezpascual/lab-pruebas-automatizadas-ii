@@ -13,11 +13,10 @@
 
 ## DATOS DEL EQUIPO — completar al iniciar
 
-| # | Nombre completo |
-|---|-----------------|
-| 1 | |
-| 2 | |
-| 3 | |
+| # |       Nombre completo             |
+|---|-----------------------------------|
+| 1 | Esneider Antonio Cordoba Mosquera
+| 2 | Camilo Andres Diaz Algarin
 
 ---
 
